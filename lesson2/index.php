@@ -169,6 +169,7 @@ echo power(2, 4);
 */
 echo "\r\n 7. \r\n";
 
+
 /*  
 	Конструкция «числительное + существительное» в именительном падеже 
 	Создано на основе https://nekin.info/math/imya_chislitelnoye.htm
